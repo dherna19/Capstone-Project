@@ -48,6 +48,13 @@ use them in a cleaning function that converts the missing values in that column 
 
 
 # Acknowledgement
-This dataset is part of Arvato adn Udacity. It is not data for public use
+This dataset is part of Arvato and Udacity. It is not data for public use
 I have answered a lot of my questions relating to data cleaning and preparation using different sources from StackOverFlow and other websites:
+https://stackoverflow.com/questions/27719407/pandas-concat-valueerror-shape-of-passed-values-is-blah-indices-imply-blah2
+https://www.analyticsvidhya.com/blog/2015/06/tuning-random-forest-model/
+https://stackoverflow.com/questions/33700626/how-to-convert-tuple-of-tuples-to-pandas-dataframe-in-python/33700770
+https://stackoverflow.com/questions/35359969/typeerror-tuple-indices-must-be-integers-not-str
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.reset_index.html
 
+# Blog
+I made a blog on Medium to show my findings. This can be found [here](https://medium.com/@deniseher44/customer-segmentation-and-supervised-learning-with-arvato-data-2065ef5a57f3?sk=3e65a826df5a8f0bf00f09cc50fe2e85)
